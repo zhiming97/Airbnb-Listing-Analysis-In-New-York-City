@@ -20,7 +20,7 @@ Recommendations
 - It is undeniable that data analysis on millions of listings provided through Airbnb is valuable for the company.
 - These millions of listings generate a lot of data that can be analysed and used for many purposes
 
-Feel free to check out the dashboard on Tableau Public -> https://public.tableau.com/app/profile/zhi.ming1614
+Feel free to check out the dashboard on Tableau Public -> https://public.tableau.com/app/profile/zhiming
 
 ![image](https://user-images.githubusercontent.com/97498951/176659654-d6714580-0aeb-4b61-9aad-585fceab0c7e.png)
 
