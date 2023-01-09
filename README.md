@@ -1,10 +1,12 @@
 # Airbnb Listing Analysis In New York City 
+![image](https://user-images.githubusercontent.com/97498951/211238671-6c239117-0ec5-4b0f-af33-d30fe4b3d205.png)
 
-Background Information
+
+## Background Information
 - This dataset describes the listing activity and metrics in NYC, NY for 2019.
 - The host’s names are removed due to privacy concerns. However, the host id is remained in the dataaset.
 
-Findings
+## Findings
 - Shared room is barely available
 - Entire apartment and private rooms consists of more than 95% of the total listings
 - Most number of listings originates from Brooklyn and Manhattan 
@@ -16,7 +18,7 @@ Findings
 - This is expected because Manhattan is one of the most expensive places to live in the world while Bronx appears to have lower standards of living 
 - At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers.
 
-Recommendations 
+## Recommendations 
 - It is undeniable that data analysis on millions of listings provided through Airbnb is valuable for the company.
 - These millions of listings generate a lot of data that can be analysed and used for many purposes
 
